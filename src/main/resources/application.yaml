@@ -4,8 +4,8 @@ spring:
     hikari:
       #>=8.0:com.mysql.cj.jdbc.Driver
       #<=8.0:com.mysql.jdbc.Driver
-      username: root
-      password: 199851025
+      username: zhou
+      password: W^ak~Qp3Gl
       driver-class-name:  com.mysql.cj.jdbc.Driver
       maximum-pool-size: 10
       max-lifetime: 10000
